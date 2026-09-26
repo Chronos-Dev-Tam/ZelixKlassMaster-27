@@ -12,6 +12,10 @@
 ### Join Discord：https://discord.gg/TPjtZt75Vs
 ### fork and download or backup this repository as soon as possible, as it may be subject to a DMCA takedown shortly
 
+youtube：【ZelixKlassMaster27 fully deobf+idea ready】 https://youtu.be/GhLJreiEuCU
+
+bilibili：【最新最热 zkm 27 原始码泄露视频 开源去验证可直接构建】 https://www.bilibili.com/video/BV1Eyhd6zE1Y/
+
 ## requirements
 
 - JDK 17 or newer
